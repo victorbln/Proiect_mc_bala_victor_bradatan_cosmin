@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">test2</string>
+    <string name="waiting_for_connection">Waiting for connection...</string>
+</resources>

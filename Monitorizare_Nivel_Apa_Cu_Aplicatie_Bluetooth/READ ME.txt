@@ -1,0 +1,1 @@
+Deschidem Proiect LCD si rulam "project.uvprojx"
